@@ -11,11 +11,11 @@ Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 204
 ## Steps to Run the DT, GBT, RF, SVR, Cox Regression Models Using Feature Selection Methods PCA and RF
 (i) First, create a folder and provide a name, e.g. "Lungcancer."
 
-(ii) Download the datasets (Flux.xlsx and Geneexpression.xlsx) from https://github.com/Angione-Lab/Benchmarking-ML-and-Cox-for-lung-cancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING
+(ii) Download the datasets (Flux.xlsx and Geneexpression.xlsx) from https://github.com/Angione-Lab/Benchmarking_ML_and_Cox_for_lung_cancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING
  folder. Save the datasets in the "Lungcancer/Dataset" folder.
 
-(iii) Download the machine learning modeling codes for PCA and RF feature selection at https://github.com/Angione-Lab/Benchmarking-ML-and-Cox-for-lung-cancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/PCA
- and https://github.com/Angione-Lab/Benchmarking-ML-and-Cox-for-lung-cancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/RF. Save them in the "Lungcancer/PCA" and "Lungcancer/RF" folders.
+(iii) Download the machine learning modeling codes for PCA and RF feature selection at https://github.com/Angione-Lab/Benchmarking_ML_and_Cox_for_lung_cancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/PCA
+ and https://github.com/Angione-Lab/Benchmarking_ML_and_Cox_for_lung_cancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/RF. Save them in the "Lungcancer/PCA" and "Lungcancer/RF" folders.
 
 (iv) The machine learning modeling codes are in .ipynb format. Install Jupyter Notebook and upload code files in Jupyter Notebook.
 
@@ -26,10 +26,10 @@ Some of the plot analyses were done in R and R Studio software.
 
 (i) First, create a folder "R" in the "Lungcancer" folder.
 
-(ii) Download the datasets from https://github.com/Angione-Lab/Benchmarking-ML-and-Cox-for-lung-cancer/tree/master/MACHINE%20LEARNING/R/Dataset
+(ii) Download the datasets from https://github.com/Benchmarking_ML_and_Cox_for_lung_cancer/tree/master/MACHINE%20LEARNING/R/Dataset
  folder. Save the datasets in the "Lungcancer/R/Dataset" folder.
 
-(iii) Codes are provided at https://github.com/Angione-Lab/Benchmarking-ML-and-Cox-for-lung-cancer/tree/master/MACHINE%20LEARNING/R folder. Save the code in the "Lungcancer/R" folder.
+(iii) Codes are provided at https://github.com/Angione-Lab/Benchmarking_ML_and_Cox_for_lung_cancer/tree/master/MACHINE%20LEARNING/R folder. Save the code in the "Lungcancer/R" folder.
 
 (iv) Download R Software with R Studio and install it.
 
